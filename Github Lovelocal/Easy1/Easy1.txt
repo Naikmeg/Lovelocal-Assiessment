@@ -1,0 +1,3 @@
+The lengthOfLastWord function takes a std::string as input.
+Then uses istringstream to tokenize the string into words.
+Then returns the length of the last word. 

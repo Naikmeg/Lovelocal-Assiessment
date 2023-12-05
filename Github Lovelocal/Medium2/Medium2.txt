@@ -1,0 +1,2 @@
+The idea is based on Moore’s Voting algorithm.
+First two candidates are found and then we check if any of these two candidates is actually a majority. 
