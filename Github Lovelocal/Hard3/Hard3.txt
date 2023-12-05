@@ -1,0 +1,6 @@
+The total number of digit 1 in the given number sequence can be calculated as follows:
+STEPS:
+1.Seperate the individual digits of the number
+2.Compare each digit with 1 for match.
+3.Then with each match found true,increment the count value.
+4.Display the count value as output.
